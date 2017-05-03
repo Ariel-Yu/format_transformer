@@ -1,0 +1,31 @@
+{
+    "input": [
+		{
+			"path": "data\\"
+		}
+	],
+	"output": [
+		{
+			"path": "output\\",
+			"format": ["JSON", "HTML", "XML"]
+		}
+	],
+	"validate": [
+		{
+			"validate": ["false", "true"],
+			"name": ["", "Hotel"]
+		}
+	],
+	"sort": [
+		{
+			"header": ["Name", "Name"],
+			"order": ["ASC", "ASC"]
+		}
+	],
+	"XML": [
+		{
+			"root": ["airspaces", "hotels"],
+			"element": ["airspace", "hotel"]
+		}
+	]
+}

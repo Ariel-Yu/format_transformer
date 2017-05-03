@@ -1,0 +1,15 @@
+{
+    "name": "ariel/format_transformer",
+    "description": "Convert file(s) from one format into other format(s)",
+    "authors": [
+        {
+            "name": "Ariel-Yu",
+            "email": "xu4s06@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"Ariel\\Format_Transformer\\": "src/"
+    	}
+    }
+}

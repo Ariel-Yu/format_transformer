@@ -1,0 +1,420 @@
+Name,Type,LowerLimit,LowerLimitType,UpperLimit,UpperLimitType
+ED-D100 Borkum (HX),Danger,5500,MSL,35000,FL
+ED-D101A Deutsche Bucht (HX),Danger,5500,MSL,24500,FL
+ED-D19A Todendorf-Putlos (HX),Danger,0,SL,40000,MSL
+ED-D19B Todendorf-Putlos (HX),Danger,0,SL,4000,MSL
+ED-D28 Ostsee/Sch?nhagen,Danger,0,SL,48000,MSL
+ED-D41A Sylt (HX),Danger,0,SL,48000,MSL
+ED-D44 Helgoland (HX),Danger,0,SL,48000,MSL
+ED-D46 Nordsee (HX),Danger,0,SL,48000,MSL
+ED-R116 Baumholder,Restricted,0,GND,18000,MSL
+ED-R111 J?lich,Restricted,0,GND,2300,MSL
+ED-R133 Karlsruhe,Restricted,0,GND,2300,MSL
+ED-R10A Todendorf-Putlos,Restricted,0,GND,40000,MSL
+ED-R10B Todendorf-Putlos,Restricted,0,GND,40000,MSL
+ED-R30 Ehra-Lessien,Restricted,0,GND,5000,MSL
+ED-R134 Wildflecken,Restricted,0,GND,18000,MSL
+ED-R112A Senne,Restricted,0,GND,1400,FL
+ED-R203A Tra-M?nsterland,Restricted,8000,FL,15000,FL
+ED-R141 Altenstadt,Restricted,0,GND,10000,FL
+ED-R15 Karow,Restricted,0,GND,1700,MSL
+ED-R77 Marienberg,Restricted,0,GND,3600,MSL
+ED-R53 Platkow,Restricted,0,GND,1500,MSL
+ED-R22 Hagenow,Restricted,0,GND,2700,MSL
+ED-R93 Bad Frankenhausen,Restricted,0,GND,2700,MSL
+ED-R90 Wartburg,Restricted,0,GND,3300,MSL
+ED-R117 Elsenborn,Restricted,0,GND,17000,MSL
+ED-R132A Heuberg,Restricted,0,GND,18000,MSL
+ED-R11A Ostsee,Restricted,0,SL,48000,MSL
+ED-R12A Sch?nhagen,Restricted,0,SL,3500,MSL
+ED-R12B Sch?nhagen,Restricted,0,SL,10000,MSL
+ED-R31 Bergen,Restricted,0,GND,14000,MSL
+ED-R32B Munster,Restricted,0,GND,10500,MSL
+ED-R137A Hohenfels,Restricted,0,GND,7500,FL
+ED-R137B Hohenfels,Restricted,0,GND,7500,FL
+ED-R142 Reiteralpe,Restricted,0,GND,12000,MSL
+ED-R33A Unterl?ss,Restricted,0,GND,40000,MSL
+ED-R37A Nordhorn,Restricted,0,GND,10000,MSL
+ED-R135 Hammelburg,Restricted,0,GND,10500,MSL
+ED-R131 Lampoldshausen,Restricted,0,GND,3000,MSL
+ED-R34B Meppen,Restricted,0,GND,40000,MSL
+ED-R13A Meldorfer Bucht,Restricted,0,SL,5000,MSL
+ED-R139 Wettzell,Restricted,0,GND,5000,MSL
+ED-R14 Moorkamp,Restricted,0,GND,1000,MSL
+ED-R96 Romrod,Restricted,0,GND,4500,MSL
+ED-R136A Grafenw?hr,Restricted,0,GND,30000,MSL
+ED-R71 Klietz,Restricted,0,GND,16600,MSL
+ED-R94 Sondershausen,Restricted,0,GND,2600,MSL
+ED-R54 Lehnin,Restricted,0,GND,3500,MSL
+ED-R17 J?gerbr?ck,Restricted,0,GND,16500,MSL
+ED-R92 Bad Salzungen,Restricted,0,GND,2800,MSL
+ED-R97A Schwarzenborn,Restricted,0,GND,12000,MSL
+CTR Leipzig,D,0,GND,2500,MSL
+ED-R34A Meppen,Restricted,0,GND,60000,MSL
+CTR Diepholz (HX),D,0,GND,2500,MSL
+CTR Ansbach (HX),D,0,GND,3000,MSL
+CTR Augsburg (HX),D,0,GND,3500,MSL
+CTR Braunschweig (HX),D,0,GND,2200,MSL
+CTR Bremen (HX),D,0,GND,2500,MSL
+CTR B?chel (HX),D,0,GND,4100,MSL
+CTR B?ckeburg (HX),D,0,GND,2500,MSL
+CTR Dortmund (HX),D,0,GND,2500,MSL
+CTR Dresden,D,0,GND,2500,MSL
+CTR D?sseldorf,D,0,GND,2500,MSL
+CTR Erfurt,D,0,GND,3000,MSL
+CTR Fassberg (HX),D,0,GND,2500,MSL
+CTR Fritzlar (HX),D,0,GND,2700,MSL
+CTR Geilenkirchen (HX),D,0,GND,3000,MSL
+CTR Grafenw?hr (HX),D,0,GND,2900,MSL
+CTR Hahn,D,0,GND,3500,MSL
+CTR Hannover,D,0,GND,2500,MSL
+CTR Hof (HX),D,0,GND,3500,MSL
+CTR Hohn (HX),D,0,GND,2600,MSL
+CTR Holzdorf (HX),D,0,GND,2800,MSL
+CTR Illesheim (HX),D,0,GND,3000,MSL
+CTR Ingolstadt (HX),D,0,GND,3700,MSL
+CTR Kassel (HX),D,0,GND,2700,MSL
+CTR Laage (HX),D,0,GND,2300,MSL
+CTR Niederrhein (HX),D,0,GND,3000,MSL
+CTR Landsberg (HX),D,0,GND,4500,MSL
+CTR Laupheim (HX),D,0,GND,3500,MSL
+CTR Lechfeld (HX),D,0,GND,4500,MSL
+CTR L?beck (HX),D,0,GND,2000,MSL
+CTR M?nster,D,0,GND,2500,MSL
+CTR Neuburg (HX),D,0,GND,3700,MSL
+CTR Niederstetten (HX),D,0,GND,3500,MSL
+CTR Nordholz (HX),D,0,GND,2600,MSL
+CTR N?rvenich (HX),D,0,GND,2900,MSL
+CTR N?rnberg,D,0,GND,3500,MSL
+CTR Oberpfaffenhofen (HX),D,0,GND,3500,MSL
+CTR Paderborn,D,0,GND,2500,MSL
+CTR Ramstein,D,0,GND,3600,MSL
+CTR Rheine-Bentlage (HX),D,0,GND,1700,MSL
+CTR Saarbr?cken (HX),D,0,GND,3600,MSL
+CTR Schleswig (HX),D,0,GND,2600,MSL
+CTR Spangdahlem (HX),D,0,GND,3700,MSL
+CTR Stuttgart,D,0,GND,3500,MSL
+CTR Sylt (HX),D,0,GND,2600,MSL
+CTR Wiesbaden (HX),D,0,GND,1500,MSL
+C D?sseldorf/K?ln-Bonn,C,3500,MSL,10000,FL
+C D?sseldorf/K?ln-Bonn,C,2900,MSL,10000,FL
+C M?nchen,C,3500,MSL,10000,FL
+C M?nchen,C,4500,MSL,10000,FL
+C D?sseldorf/K?ln-Bonn,C,1500,MSL,10000,FL
+C D?sseldorf/K?ln-Bonn,C,3500,MSL,10000,FL
+ED-R33B Unterl?ss,Restricted,0,GND,40000,MSL
+D Bremen,D,1500,MSL,6000,FL
+D Bremen,D,1500,MSL,6000,FL
+D Bremen,D,2500,MSL,6000,FL
+D Bremen,D,3500,MSL,6000,FL
+D Bremen,D,3500,MSL,6000,FL
+CTR Heringsdorf (HX),D,0,GND,2500,MSL
+ED-R95A Ohrdruf,Restricted,0,GND,13500,MSL
+ED-R73A Altengrabow,Restricted,0,GND,10700,MSL
+ED-R74 Altmark,Restricted,0,GND,7000,MSL
+ED-D47A R?gen,Danger,0,SL,50000,MSL
+ED-D47B R?gen,Danger,0,SL,50000,MSL
+ED-R132B Heuberg,Restricted,0,GND,18000,MSL
+ED-R11B Ostsee,Restricted,0,SL,48000,MSL
+CTR Schwerin-Parchim (HX),D,0,GND,2000,MSL
+CTR Hamburg Boberg (HX),D,0,GND,2500,MSL
+CTR M?nchengladbach (HX),D,0,GND,2000,MSL
+ED-R13B Meldorfer Bucht,Restricted,0,SL,24500,MSL
+ED-R143 Hagenauer Forst,Restricted,0,GND,2500,MSL
+CTR Hannover Wunstdorf (HX),D,0,GND,2500,MSL
+CTR Karlsruhe/Baden-Baden,D,0,GND,2500,MSL
+ED-R112B Senne,Restricted,0,GND,1400,FL
+ED-R95B Ohrdruf,Restricted,0,GND,4500,MSL
+ED-R118 Pirmasens,Restricted,0,GND,3300,MSL
+TMZ M?nster-Osnabr?ck,TMZ,4500,MSL,6000,FL
+TMZ M?nster-Osnabr?ck,TMZ,3500,MSL,6000,FL
+TMZ M?nster-Osnabr?ck,TMZ,4500,MSL,6000,FL
+TMZ M?nster-Osnabr?ck,TMZ,4500,MSL,6000,FL
+CTR Mannheim (HX),D,0,GND,2000,MSL
+ED-D47C R?gen (HX),Danger,7000,FL,30000,FL
+C D?sseldorf/K?ln-Bonn,C,2500,MSL,10000,FL
+ED-R73B Altengrabow,Restricted,0,GND,10700,MSL
+ED-R73C Altengrabow,Restricted,0,GND,10700,MSL
+ED-D41B Sylt (HX),Danger,5000,MSL,48000,MSL
+D Leipzig,D,3500,MSL,7500,FL
+D Leipzig,D,2500,MSL,7500,FL
+TMZ Dortmund B,TMZ,4500,MSL,6500,FL
+TMZ Dortmund C,TMZ,3500,MSL,6500,FL
+Salzburg TMA,D,4500,MSL,10000,FL
+Salzburg TMA,D,7000,MSL,10000,FL
+Salzburg TMA,D,4500,MSL,13000,FL
+Salzburg TMA,D,7000,MSL,13000,FL
+TMZ Paderborn,TMZ,4500,MSL,6000,FL
+TMZ Paderborn,TMZ,3500,MSL,6000,FL
+TMZ Paderborn,TMZ,3500,MSL,6000,FL
+ED-R32A Munster,Restricted,0,GND,14000,MSL
+ED-R34C Meppen,Restricted,0,GND,8000,FL
+TMZ Dortmund D,TMZ,4500,MSL,6500,FL
+D Leipzig,D,3500,MSL,7500,FL
+C N?rnberg,C,4500,MSL,7000,FL
+C D?sseldorf/K?ln-Bonn,C,3500,MSL,10000,FL
+C D?sseldorf/K?ln-Bonn,C,4500,MSL,10000,FL
+C D?sseldorf/K?ln-Bonn,C,4500,MSL,10000,FL
+C D?sseldorf/K?ln-Bonn,C,4500,MSL,10000,FL
+C D?sseldorf/K?ln-Bonn,C,6500,FL,10000,FL
+C D?sseldorf/K?ln-Bonn,C,6500,FL,10000,FL
+C D?sseldorf/K?ln-Bonn,C,6500,FL,10000,FL
+C D?sseldorf/K?ln-Bonn,C,8500,FL,10000,FL
+TMZ Friedrichshafen,TMZ,1000,GND,5000,MSL
+TMZ Friedrichshafen,TMZ,1700,GND,5000,MSL
+C D?sseldorf/K?ln-Bonn,C,3500,MSL,10000,FL
+CTR Salzburg,D,0,GND,7000,MSL
+CTR Maastricht,D,0,GND,3000,MSL
+ED-R145 Spatzenhausen,Restricted,0,GND,5000,MSL
+CTR Celle (HX),D,0,GND,2000,MSL
+ED-R1 Garching,Restricted,0,GND,3600,MSL
+ED-R3 Geesthacht/Kr?mmel,Restricted,0,GND,2200,MSL
+ED-R5 Biblis,Restricted,0,GND,2300,MSL
+ED-R6 Brokdorf,Restricted,0,GND,2000,MSL
+ED-R7 Brunsb?ttel,Restricted,0,GND,2000,MSL
+ED-R8 Emsland,Restricted,0,GND,2100,MSL
+ED-R23 Grafenrheinfeld,Restricted,0,GND,2700,MSL
+ED-R24 Grohnde,Restricted,0,GND,2200,MSL
+ED-R25 Gundremmingen,Restricted,0,GND,3400,MSL
+ED-R27 Isar,Restricted,0,GND,3300,MSL
+ED-R38 Neckarwestheim,Restricted,0,GND,2900,MSL
+ED-R39 Obrigheim,Restricted,0,GND,2800,MSL
+ED-R40 Philippsburg,Restricted,0,GND,2300,MSL
+ED-R41 Unterweser,Restricted,0,GND,2000,MSL
+CTR Berlin-Tegel,D,0,GND,2500,MSL
+CTR Strasbourg,D,0,GND,2500,MSL
+CTR Wittmund (HX),D,0,GND,2500,MSL
+ED-R146 Berlin,Restricted,0,GND,5000,MSL
+CTR Lahr (HX),D,0,GND,2500,MSL
+C M?nchen,C,4500,MSL,10000,FL
+ED-R136B Grafenw?hr,Restricted,0,GND,10000,MSL
+CTR Memmingen/Allg?u (HX),D,0,GND,4500,MSL
+D Hahn,D,2500,MSL,6500,FL
+D Hahn,D,2500,MSL,6500,FL
+D Hahn,D,3500,MSL,6500,FL
+D Hahn,D,3500,MSL,6500,FL
+D Hahn,D,3500,MSL,6500,FL
+D Leipzig,D,3500,MSL,7500,FL
+D Leipzig,D,4500,MSL,7500,FL
+D Leipzig,D,4500,MSL,7500,FL
+D Leipzig,D,5500,MSL,7500,FL
+D Leipzig,D,5500,MSL,7500,FL
+D Leipzig,D,3500,MSL,7500,FL
+C D?sseldorf/K?ln-Bonn,C,2500,MSL,10000,FL
+TMZ Dortmund A,TMZ,4500,MSL,6500,FL
+TMZ Paderborn,TMZ,4500,MSL,6000,FL
+CTR Hamburg-Finkenwerder (HX),D,0,GND,2500,MSL
+D Hamburg-Finkenwerder ,D,2000,MSL,4500,MSL
+D Karlsruhe/Baden-Baden,D,1500,MSL,6500,FL
+D Karlsruhe/Baden-Baden,D,1500,MSL,6500,FL
+D Karlsruhe/Baden-Baden,D,2500,MSL,6500,FL
+D Karlsruhe/Baden-Baden,D,2500,MSL,6500,FL
+D Karlsruhe/Baden-Baden,D,2500,MSL,6500,FL
+D Karlsruhe/Baden-Baden,D,3500,MSL,6500,FL
+D Karlsruhe/Baden-Baden,D,3500,MSL,6500,FL
+D Karlsruhe/Baden-Baden,D,4500,MSL,6500,FL
+ED-R97B Schwarzenborn,Restricted,0,GND,8000,FL
+ED-R10C Todendorf-Putlos,Restricted,0,GND,4000,MSL
+ED-R10D Todendorf-Putlos,Restricted,0,GND,3000,MSL
+ED-R10E Todendorf-Putlos,Restricted,0,GND,3000,MSL
+CTR Cochstedt (HX),D,0,GND,3000,MSL
+TMZ Saarbr?cken,TMZ,2500,MSL,6500,FL
+CTR Altdorf-Wallburg (HX),D,0,GND,2000,MSL
+TMZ Memmingen,TMZ,3500,MSL,7500,FL
+TMZ Memmingen,TMZ,3500,MSL,7500,FL
+TMZ Memmingen,TMZ,4500,MSL,7500,FL
+TMZ Niederrhein,TMZ,1500,MSL,6500,FL
+TMZ Niederrhein,TMZ,2500,MSL,6500,FL
+TMZ Niederrhein,TMZ,2500,MSL,6500,FL
+TMZ Niederrhein,TMZ,3000,MSL,6500,FL
+TMZ Niederrhein,TMZ,3500,MSL,6500,FL
+TMZ Niederrhein,TMZ,4500,MSL,6500,FL
+TMZ Niederrhein,TMZ,4500,MSL,6500,FL
+ED-R148 Schleswig,Restricted,2600,MSL,10000,FL
+ED-R202 Tra-Weser 1A,Restricted,8000,FL,24500,FL
+ED-R202 Tra-Weser 1B,Restricted,8000,FL,24500,FL
+ED-R202 Tra-Weser 1C,Restricted,8000,FL,24500,FL
+ED-R202 Tra-Weser 1D,Restricted,8000,FL,24500,FL
+C D?sseldorf/K?ln-Bonn,C,2000,MSL,10000,FL
+D Dortmund,D,2500,MSL,4500,MSL
+D Dortmund,D,2000,MSL,4500,MSL
+D M?nster-Osnabr?ck,D,2500,MSL,4500,MSL
+D Paderborn,D,2500,MSL,4500,MSL
+TMZ Hamburg,TMZ,4500,MSL,10000,FL
+TMZ Hamburg,TMZ,4500,MSL,10000,FL
+TMZ Hamburg,TMZ,6000,FL,10000,FL
+TMZ Hamburg,TMZ,7500,FL,10000,FL
+TMZ Hannover,TMZ,7500,FL,10000,FL
+TMZ Hannover,TMZ,6500,FL,10000,FL
+Franfurt E,E,1000,GND,10000,FL
+Stuttgart E,E,1000,GND,10000,FL
+RMZ Straubing,RMZ,0,GND,1000,GND
+RMZ Siegerland,RMZ,0,GND,1000,GND
+E Cottbus,E,1000,GND,10000,FL
+RMZ Donaueschingen,RMZ,0,GND,1000,GND
+RMZ Eggenfelden,RMZ,0,GND,1000,GND
+RMZ Coburg,RMZ,0,GND,1000,GND
+E Coburg,E,1000,GND,10000,FL
+RMZ Bayreuth,RMZ,0,GND,1000,GND
+RMZ Magdeburg,RMZ,0,GND,1000,GND
+E Allendorf,E,1000,GND,10000,FL
+E Bautzen,E,1000,GND,10000,FL
+E Diepholz,E,1000,GND,10000,FL
+E Siegerland,E,1000,GND,10000,FL
+E Frankfurt,E,1000,GND,10000,FL
+RMZ Barth,RMZ,0,GND,1000,GND
+E Karlsruhe,E,1000,GND,10000,FL
+E Straubing,E,1000,GND,10000,FL
+E Cochstedt,E,1000,GND,10000,FL
+RMZ Schw?bisch Hall,RMZ,0,GND,1000,GND
+RMZ Emden,RMZ,0,GND,1000,GND
+RMZ Donauw?rth,RMZ,0,GND,1000,GND
+E Eggenfelden,E,1000,GND,10000,FL
+RMZ Cottbus,RMZ,0,GND,1000,GND
+E Kassel,E,1000,GND,10000,FL
+E Sylt,E,1000,GND,10000,FL
+RMZ Wilhelmshaven,RMZ,0,GND,1000,GND
+E Friesland,E,1000,GND,10000,FL
+E Laage,E,1000,GND,10000,FL
+E Schw?bisch Hall,E,1000,GND,10000,FL
+RMZ Hassfurt-Schweinfurt,RMZ,0,GND,1000,GND
+E Stuttgart,E,1000,GND,3500,MSL
+RMZ Giebelstadt,RMZ,0,GND,1000,GND
+E Eider,E,1000,GND,10000,FL
+RMZ Kiel,RMZ,0,GND,1000,GND
+E Fritzlar,E,1000,GND,10000,FL
+RMZ Allendorf,RMZ,0,GND,1000,GND
+E Heringsdorf,E,1000,GND,10000,FL
+E M?nchen,E,1000,GND,10000,FL
+E Friedrichshafen a,E,1000,GND,10000,FL
+E Grafenw?hr,E,1700,GND,10000,FL
+E Salzburg,E,1000,GND,4500,MSL
+E Neustadt,E,1700,GND,10000,FL
+E Holzdorf a,E,1000,GND,10000,FL
+E Paderborn,E,1000,GND,10000,FL
+RMZ Bautzen,RMZ,0,GND,1000,GND
+E Barth,E,1000,GND,10000,FL
+E Friedrichshafen b,E,1700,GND,10000,FL
+E Donaueschingen,E,1000,GND,10000,FL
+E Altenburg,E,1000,GND,10000,FL
+E Holzdorf b,E,1700,GND,10000,FL
+E D?sseldorf,E,1000,GND,10000,FL
+E Erfurt,E,1000,GND,10000,FL
+E Rothenburg ob d. T.,E,1700,GND,10000,FL
+E Hahn (Hahn-Nord),E,1700,GND,10000,FL
+E N?rnberg,E,1000,GND,10000,FL
+E Ramstein,E,1700,GND,10000,FL
+E Schwerin-Parchim,E,1000,GND,10000,FL
+RMZ Mengen,RMZ,0,GND,1000,GND
+E Laupheim b,E,1700,GND,10000,FL
+E Hamburg,E,1000,GND,10000,FL
+E Leipzig,E,1000,GND,10000,FL
+E M?nster,E,1000,GND,10000,FL
+ED-R37B Nordhorn,Restricted,0,GND,2500,MSL
+CTR Friedrichshafen (HX),D,0,GND,4500,MSL
+C N?rnberg,C,3500,MSL,7000,FL
+C Stuttgart,C,3500,MSL,5500,MSL
+ED-R4 Wannsee,Restricted,0,GND,2200,MSL
+E Laupheim a,E,1000,GND,10000,FL
+C Frankfurt,C,4500,MSL,10000,FL
+D K?ln,D,1500,MSL,2500,MSL
+C Frankfurt,C,6500,FL,10000,FL
+ED-R76A Oberlausitz,Restricted,0,GND,19900,MSL
+RMZ Neubrandenburg,RMZ,0,GND,1000,GND
+RMZ Oberschlei?heim,RMZ,0,GND,1000,GND
+C D?sseldorf/K?ln-Bonn,C,2500,MSL,10000,FL
+C D?sseldorf/K?ln-Bonn,C,1500,MSL,10000,FL
+CTR K?ln/Bonn,D,0,GND,2500,MSL
+ED-R76B Oberlausitz,Restricted,0,GND,19900,MSL
+C Frankfurt,C,4500,MSL,10000,FL
+ED-R50 Meseberg,Restricted,0,GND,3000,MSL
+C Frankfurt,C,6500,FL,10000,FL
+C Frankfurt,C,4500,MSL,10000,FL
+ED-R55 Storkow,Restricted,0,GND,1900,MSL
+C D?sseldorf/K?ln-Bonn,C,2500,MSL,10000,FL
+C Frankfurt,C,1500,MSL,10000,FL
+C Frankfurt,C,3500,MSL,10000,FL
+ED-R60 Oberpfaffenhofen,Restricted,0,GND,43000,FL
+E Neubrandenburg,E,1000,GND,10000,FL
+CTR M?nchen,D,0,GND,3500,MSL
+ED-R76C Oberlausitz,Restricted,0,GND,5500,MSL
+ED-R76D Oberlausitz,Restricted,0,GND,5500,MSL
+CTR Berlin/Sch?nefeld,D,0,GND,2500,MSL
+RMZ Zweibr?cken,RMZ,0,GND,1000,GND
+ED-R138 Siegenburg Sector A,Restricted,0,GND,10000,FL
+ED-R138 Siegenburg Sector B,Restricted,10000,FL,15500,FL
+ED-R144 Franken,Restricted,7500,FL,10000,FL
+CTR Frankfurt,D,0,GND,1500,MSL
+C Hamburg,C,2500,MSL,10000,FL
+C Hamburg,C,4500,MSL,10000,FL
+D Stuttgart,D,4500,MSL,10000,FL
+D Stuttgart,D,5500,MSL,10000,FL
+D Stuttgart,D,5500,MSL,10000,FL
+D Stuttgart,D,7500,FL,10000,FL
+D Stuttgart,D,7500,FL,10000,FL
+C Berlin,C,2500,MSL,10000,FL
+C Berlin,C,3500,MSL,10000,FL
+C Berlin,C,6500,FL,10000,FL
+C Berlin,C,7500,FL,10000,FL
+D Dresden,D,2500,MSL,6000,FL
+D Dresden,D,3500,MSL,6000,FL
+RMZ Altenburg,RMZ,0,GND,1000,GND
+TMZ Saarbr?cken,TMZ,2500,MSL,6500,FL
+TMZ Saarbr?cken,TMZ,3500,MSL,6500,FL
+ED-R147 Manching,Restricted,3700,MSL,7500,FL
+FIS Bremen,FIS,0,GND,10000,FL
+FIS Bremen,FIS,0,GND,10000,FL
+FIS Bremen,FIS,0,GND,10000,FL
+FIS Langen,FIS,0,GND,10000,FL
+FIS Langen,FIS,0,GND,10000,FL
+FIS Langen,FIS,0,GND,10000,FL
+FIS Langen,FIS,0,GND,10000,FL
+FIS M?nchen,FIS,0,GND,10000,FL
+FIS M?nchen,FIS,0,GND,10000,FL
+E Hannover,E,1000,GND,10000,FL
+E Hannover,E,1700,GND,10000,FL
+TMZ N?rnberg b,TMZ,5500,MSL,10000,FL
+TMZ N?rnberg c,TMZ,6500,FL,10000,FL
+TMZ N?rnberg d,TMZ,6500,FL,10000,FL
+TMZ N?rnberg e,TMZ,6500,FL,10000,FL
+TMZ N?rnberg f,TMZ,7000,FL,10000,FL
+ATZ Egelsbach,ATZ,0,GND,1500,MSL
+ED-R70 Holzdorf,Restricted,0,GND,2000,MSL
+C Frankfurt,C,5500,MSL,10000,FL
+C Hamburg,C,6000,FL,10000,FL
+TMZ Saarbr?cken (HX),TMZ,3500,MSL,6500,FL
+E Bayreuth,E,1000,GND,10000,FL
+E Berlin,E,1000,GND,2500,MSL
+E Dresden,E,1000,GND,2500,MSL
+E Hassfurt,E,1000,GND,10000,FL
+TMZ N?rnberg a,TMZ,5500,MSL,10000,FL
+D Hannover,D,2500,MSL,6000,FL
+CTR Hamburg,D,0,GND,2500,MSL
+D Hannover,D,4500,MSL,6000,FL
+TMZ Luxembourg,TMZ,5500,MSL,6500,FL
+TMZ Luxembourg,TMZ,3500,MSL,6500,FL
+C Hannover,C,6000,FL,10000,FL
+FIS M?nchen,FIS,0,GND,10000,FL
+C M?nchen,C,6500,FL,10000,FL
+C M?nchen,C,6500,FL,10000,FL
+C M?nchen,C,8500,FL,10000,FL
+C M?nchen,C,8500,FL,10000,FL
+C Frankfurt,C,8500,FL,10000,FL
+C Frankfurt,C,8500,FL,10000,FL
+E Bremen,E,1000,AGL,1500,MSL
+E Bremen,E,1000,AGL,1500,MSL
+E Bremen,E,1000,AGL,2500,MSL
+E Bremen,E,1000,AGL,3500,MSL
+E Bremen,E,1000,AGL,3500,MSL
+ED-R56A Kummersdorf-Gut,Restricted,0,GND,2700,MSL
+ED-R56B Kummersdorf-Gut,Restricted,0,GND,3500,MSL
+TMZ Hahn,TMZ,4500,MSL,7500,FL
+TMZ Hahn,TMZ,4500,MSL,7500,FL
+TMZ Hahn,TMZ,5500,MSL,7500,FL
+TMZ Hahn,TMZ,5500,MSL,7500,FL
+TMZ Hahn,TMZ,6500,FL,7500,FL
+D Paderborn,D,1900,MSL,4500,MSL
+ED-R45 Melpitz,Restricted,0,GND,5000,MSL
+TMZ Egelsbach,TMZ,0,GND,1500,MSL
+ED-R201N Tra-Friesland,Restricted,8000,FL,24500,FL
+ED-R201S Tra-Friesland,Restricted,8000,FL,24500,FL

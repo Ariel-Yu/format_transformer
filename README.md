@@ -19,7 +19,7 @@ Transform input file into desired format:
 ``` php
 $formatTransformer = new FormatTransformer();
 
-$formatTransformer::transform();
+$formatTransformer::formatTransform();
 ```	
 
 ## Supported input file format
@@ -35,28 +35,26 @@ $formatTransformer::transform();
 ## Configuration JSON
 
 1. input
-   - name: input file name
    - path: input file directory
    
 2. output
-   - name: output file name
    - path: output file directory
+   - format: desired file output format
    
-3. format
-   - format: desired output file format
-   - root: (only for XML format) root name  
-   - element: (only for XML format) element name
-   
-4. validate
+3. validate
    - validate: if file content needs to be validated (true/false)
-   - class: class for validation
+   - name: name of the validator, usually is the name of the file (singular)
    
-5. sort
-   - header: header in the file used to sort file content
+4. sort
+   - header: header in the file used to sort the file content
    - order: sorting order
+   
+5. XML   
+   - root: root name  
+   - element: element name
    
 ## Format_Transformer extensible
 
    1. input file format
-   2. validator for validating different content
+   2. validator for validating different data content
    3. output file format
